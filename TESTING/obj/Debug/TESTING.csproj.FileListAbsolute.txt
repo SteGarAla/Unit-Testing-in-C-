@@ -1,0 +1,16 @@
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\TESTING.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\TESTING.pdb
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Bankk.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Bankk.pdb
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\obj\Debug\TESTING.csproj.AssemblyReference.cache
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\obj\Debug\TESTING.csproj.CoreCompileInputs.cache
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\obj\Debug\TESTING.csproj.CopyComplete
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\obj\Debug\TESTING.dll
+C:\Users\stegarc\source\repos\SteGarAla\TESTING\obj\Debug\TESTING.pdb
