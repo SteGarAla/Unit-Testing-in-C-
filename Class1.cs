@@ -25,7 +25,7 @@ namespace BankAccountNS
 
         //msgs in case something goes wrong for the credit test cases
         public const string CreditAmountLessThanZeroMessage = "Credit amount is less than zero.";
-        public const string AccountIsFrozen = "Account is currently frozen.";
+        public const string AccountFrozen = "Account is currently frozen.";
 
         private BankAccount()
         {
@@ -35,7 +35,6 @@ namespace BankAccountNS
         {
             m_customerName = customerName;
             m_balance = balance;
-            m_frozen = false;
         }
 
         public string CustomerName
@@ -62,7 +61,7 @@ namespace BankAccountNS
 
             if (m_frozen)
             {
-                throw new Exception(AccountIsFrozen);
+                throw new Exception(AccountFrozen);
             }
 
             // method under test
@@ -101,7 +100,7 @@ namespace BankAccountNS
         {
             if (m_frozen)
             {
-                throw new Exception(AccountIsFrozen);
+                throw new Exception(AccountFrozen);
             }
 
             if (amount < 0)
